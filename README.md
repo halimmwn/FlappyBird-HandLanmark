@@ -63,6 +63,3 @@ Gerakan tangan ke atas dan ke bawah akan diikuti oleh burung secara real-time, s
 * Pastikan pencahayaan ruangan cukup agar deteksi tangan lebih akurat
 * Jarak tangan ke kamera mempengaruhi sensitivitas kontrol
 * Disarankan menggunakan kamera dengan resolusi yang baik
-
-tofolio / magang**,
-* atau menambahkan **GIF demo & screenshot section** 🔥
